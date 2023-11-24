@@ -23,24 +23,24 @@ Asegúrate de tener instalados en tu máquina:
     npm install
 
 ## Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables de entorno:
+
 Siguiendo la plantilla de env.template (los datos se encuentran anexos en el TP)
+
 ```bash
     MONGODB_CNN = mongodb+srv://<NAME>:<PASS>@cluster0.30zkc.mongodb.net/authapi   
     PORT_DEVELOPMENT = 4001  
     PORT= 4000   
-    SECRETORPRIVATEKEY=''  
+    SECRETORPRIVATEKEY=''
+```
 
-
-## Ejecución
-
+## Ejecución 
 * En una terminal, ejecuta el siguiente comando para iniciar el servidor de desarrollo:
     ```bash
     npm run dev
-    
-##En otra terminal, si necesitas compilar TypeScript automáticamente mientras desarrollas, ejecuta:
-
-    ```bash
+    ```
+*  En otra terminal, si necesitas compilar TypeScript automáticamente mientras desarrollas, ejecuta**
+```bash
     tsc --watch
-
-
-Patricio Bottino
+```
+    
+**Autor:  Patricio Bottino** ⚡️🦆
