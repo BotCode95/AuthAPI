@@ -1,0 +1,1 @@
+{"version":3,"file":"group.js","sourceRoot":"","sources":["../../../src/models/group.ts"],"names":[],"mappings":";;;AAAA,uCAAsC;AAItC,MAAM,WAAW,GAAG,IAAI,iBAAM,CAAS;IACtC,SAAS,EAAE;QACV,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,CAAC,IAAI,EAAE,mBAAmB,CAAC;KACrC;CACD,CAAC,CAAA;AAEW,QAAA,KAAK,GAAG,IAAA,gBAAK,EAAS,OAAO,EAAE,WAAW,CAAC,CAAA"}
